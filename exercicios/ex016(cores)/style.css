@@ -1,0 +1,35 @@
+@charset "UTF-8"
+
+* {
+    /*height: 100%;*/
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: linear-gradient(to right, #DE4EDE, #C662F5);
+}
+main {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #8882FF;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: #F777AC;
+   text-align: center;
+   text-shadow: 1px 1px 3px #834EDE;
+
+}
+h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #834EDE;
+    
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    
+}
